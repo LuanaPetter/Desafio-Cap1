@@ -1,0 +1,13 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luana Ferreira', '02708797000', 8200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Gabriel Alves', '59878797000', 200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Gabriela Moura', '12308797000', 5000.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rafael da Silva', '02799797010', 8200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Antunes', '89708797000', 3600.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Beatriz Perreira', '23878797500', 7200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jonathan Alfredo', '98508797000', 5700.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rafaela da Silva', '12308797111', 3000.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Caio Barros', '02899797018', 2200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucas Antunes', '09708797007', 6300.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marina Pedroso', '20878797501', 200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcelo de Lima', '08508797007', 700.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Silveira', '08708797000', 9200.0, TIMESTAMP WITH TIME ZONE '1991-03-12T10:00:00Z', 2);
